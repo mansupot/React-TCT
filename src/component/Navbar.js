@@ -14,7 +14,7 @@ class Navbar extends Component {
             <View>
                 <Text style = {{ marginTop : 20 }}>Android</Text>
                 <SocialIcon title='Sign In With Facebook' button type='facebook' />
-                <SocialIcon title='Some Twitter Message' button type='twitter' />
+               
 
             </View>
         );
